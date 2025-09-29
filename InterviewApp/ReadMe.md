@@ -11,7 +11,7 @@ This is a starter .NET Core console application designed for interview purposes.
 
 ---
 
-## 🧠 Tasks
+## Tasks
 
 Please complete the following tasks. You may use any libraries or patterns you are comfortable with, but aim for clarity, maintainability, and testability.
 
@@ -45,7 +45,7 @@ Please complete the following tasks. You may use any libraries or patterns you a
 
 ---
 
-## 🧭 Advanced Tasks: MediatR Integration
+## Advanced Tasks: MediatR Integration
 
 These tasks are designed to assess your familiarity with the MediatR library and how to use it to decouple application logic.
 
@@ -66,7 +66,7 @@ These tasks are designed to assess your familiarity with the MediatR library and
 
 ---
 
-## 🧰 Suggested NuGet Packages
+## Suggested NuGet Packages
 
 ```bash
 dotnet add package MediatR
@@ -75,7 +75,7 @@ dotnet add package MediatR.Extensions.Microsoft.DependencyInjection
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 1. Ensure you have .NET 8 SDK or later installed
 2. Run the application:
